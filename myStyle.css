@@ -3,6 +3,8 @@ h1
 	color: red;
 	background-color: black;
 	text-align: center;
+	font-size: 2.5em;
+	text-transform: uppercase;
 	}
 	
 	h2
@@ -14,4 +16,6 @@ h1
 	{
 	color: red;
 	background-color: #040404;
+	font-family: "Veranda", "Geneva", "Helvetica", sans-serif;
+	font-size: 1.25em;
 	}
