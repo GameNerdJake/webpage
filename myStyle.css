@@ -11,7 +11,13 @@
 	border: double thick red;
 	background-color: black;
 	}
-		
+	
+	h2
+	{
+	width: 160px;
+	padding-left: 30px
+	}	
+	
 	body
 	{
 	color: red;
